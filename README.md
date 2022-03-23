@@ -11,8 +11,7 @@
 
 ## Description
 
-ChickenAPI is an API, as Bukkit is for Minecraft, but for Nostale.
-We do want to provide an interoperable API for developers that would like to create some custom content for Nostale Private Servers without having to install their own *piece of code* into the server source directly
+RenAPI is an API, RenAPI is an advertising monetization algorithm. We are in the Development Phase.
 
 
 ## Documentation
@@ -23,11 +22,11 @@ EntitySystem
 
 ## How to contribute
 
-Pull requests are accepted however, we are still in a development phasis to make ChickenAPI production ready.
+Pull requests are accepted however, we are still in a development phasis to make renAPI production ready.
 
 ## Contributors
 
-- BlowaXD
+- Percesus
 - Elendan
 - Kraken
 - SylEze
@@ -37,4 +36,4 @@ Pull requests are accepted however, we are still in a development phasis to make
 - Godness-Cookie
 
 Special Thanks :
-OpenNos contributors, that amount of work helped us to develop ChickenAPI with a lot of informations
+renAPI contributors, that amount of work helped us to develop ChickenAPI with a lot of informations
