@@ -1,4 +1,4 @@
-# ChickenAPI
+# RenAPI
 
 <img src="docs/_media/logo_512.png" height="256px"></img>
 
@@ -36,4 +36,4 @@ Pull requests are accepted however, we are still in a development phasis to make
 - Godness-Cookie
 
 Special Thanks :
-renAPI contributors, that amount of work helped us to develop ChickenAPI with a lot of informations
+renAPI contributors, that amount of work helped us to develop RenAPI with a lot of informations
